@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-3.3V to 1.2V
+input 3.3V output 1.2V
 
 ## How to test
 
-different temperature 
+put in the oven and test it in different temperature
 
 ## External hardware
 
